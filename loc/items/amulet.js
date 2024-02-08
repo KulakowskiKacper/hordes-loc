@@ -10,6 +10,7 @@ export default [
       fr: 'Les ingrédients brûlés ont été tordus et liés ensemble pour former une amulette de maigre protection. La création d\'amulettes simples comme celle-ci a été une tactique de survie courante depuis l\'antiquité.',
       es: 'Ingredientes quemados han sido retorcidos y atados para formar un amuleto de escasa protección. La creación de amuletos simples como este ha sido una táctica común de supervivencia desde la antigüedad.',
       pt: 'Ingredientes queimados foram torcidos e amarrados para formar um amuleto de pouca proteção. Criar amuletos simples como este tem sido uma tática de sobrevivência comum desde tempos antigos.',
+      pl: 'Spalone składniki zostały zmieszane i złączone razem by stworzyć amulet o skromnej ochronie. Tworzenie prostych amuletów, takich jak ten jest powszechną taktyką przetrwania od zamierzchłych czasów.',
       nl: 'Verbrande ingrediënten zijn gedraaid en samengebonden tot een amulet van magere bescherming. Het creëren van eenvoudige amuletten zoals deze is al sinds de oudheid een veel voorkomende overlevingstactiek.',
       ko: '타 버린 성분들이 꼬여서 묶여서 약한 보호 장치가되었습니다. 이와 같은 단순한 부적을 만드는 것은 고대부터 일반적인 생존 전술이었습니다.',
       ro: 'Diverse ingrediente au fost arse, împletite iar mai apoi îmbinate pentru a forma o amuletă cu protecție scăzută. Crearea acestor amulete simple reprezintă o tehnică obișnuită de supraviețuire încă din antichitate.',
@@ -27,6 +28,7 @@ export default [
     name       : {$$: 'Wolf\'s Collar'},
     description: {
       en: 'Collars to keep wolves in servitude are made from a thick leather. Some of them still have chain links connected, but all wolf collars are sturdy. Some collars are imbued with spiritual protection.',
+      pl: 'Obroże służące do ujarzmiania wilków są zrobione z grubej skóry. Ogniwa niektórych z nich wciąż są połączone, ale wszystkie obroże są silne. Część obroży jest nasyconych duchową energią.',
       el: 'Τα κολλάρα που κρατούν τους λύκους στη δουλεία φτιάχνονται από παχύ δέρμα. Κάποια από αυτά έχουν ακόμη κρίκους, αλλά όλα τα κολλάρα λύκων είναι στιβαρά. Κάποια κολλάρα έχουν εμποτιστεί με πνευματική προστασία.',
       ru: 'Ошейники для упряжки диких волков сделаны из толстой кожи. На некоторых из них всё ещё висят обрывки цепей, но все они очень прочные. Некоторые ошейники пропитаны духовной защитой.',
       hi: 'भेड़ियों को भृत्यभाव रखने के लिए मोटी चमड़ी के पट्टे इस्तमाल किए जाते है। कुछ पट्टों पर अभी भी सांकल लगे हुए है, पर सारे पट्टे तगड़े है। कुछ पट्टे आत्मिक सुरक्षा से रंजित है।',
@@ -51,6 +53,7 @@ export default [
     name       : {$$: 'Bone Necklace'},
     description: {
       en: 'This necklace consists of bone fragments from a variety of strong creatures. Each bone necklace varies in protection based on the origin of the bones.',
+      pl: 'Ten naszyjnik zawiera fragmenty kości wielu silnych kreatur. Różnią się ochroną w zależności od pochodzenia kości.',
       el: 'Αυτό το μενταγιόν αποτελείται από κομμάτια κοκκάλων από μια ποικιλία τρομερών τεράτων. Κάθε μενταγιόν διαφέρει στην προστασία ανάλογα με την προέλευση των κοκκάλων.',
       ru: 'Это ожерелье сделано из фрагментов костей разных сильных существ. Каждое костное ожерелье имеет разную степень защиты в зависимости от происхождения костей.',
       hi: 'इस माला में अलग अलग ताक़तवर प्रणीयो की हद्दीयो के टुकड़े है। हर माला की शक्ति उसकी हद्दीयो के मूल पर निर्भर करती है।',
@@ -75,6 +78,7 @@ export default [
     name       : {$$: 'Werewolf\'s Claw'},
     description: {
       en: 'Fearsome werewolf claws that were left behind on the bodies of victims were anointed with mystic oils and instilled with spiritual fortitude through meditation. The creators of these amulets hoped that these spiritual protections would one day be used for revenge.',
+      pl: 'Przerażające pazury wilkołaków które zostały w ciałach ofiar zostały namaszczone mistycznymi olejami i nasycone duchową siłą poprzez medytację. Twórca tych amuletów miał nadzieję, że pewnego dnia, zostaną użyte by dokonać zemsty.',
       ru: 'Когти грозного оборотня, оставленные на телах убитых жертв, были пропитаны мистическими маслами и усилены духовной защитой через медитацию. Создатели этих амулетов надеялись, что однажды эти улучшения будут использованы для мести.',
       hi: 'ख़तरनाक भेड़िए के पंजे जो शिकारों के शरीरों में रह गए थे, रहस्यमयी तेलों से उनका अभिषेक करकर और ध्यान लगाकर आत्मिक सहन-शक्ति से इन्हें भर दिया गया। इस ताबीज़ के निर्माता चाहते थे की इसकी सुरक्षा एक दिन बदले के लिए इस्तमाल होगी।',
       de: 'Furchterregende Werwolfkrallen, die auf den Körpern der Opfer zurückgelassen wurden, wurden mit mystischen Ölen gesalbt und durch Meditation mit geistiger Kraft erfüllt. Die Schöpfer dieser Amulette hofften, dass diese geistigen Schutzmaßnahmen eines Tages zur Rache eingesetzt werden würden.',
@@ -98,6 +102,7 @@ export default [
     name       : {$$: 'Eagle\'s Talon'},
     description: {
       en: 'When a talon was found, it was considered a gift from the sacred birds in the mountains. The monks in the mountains used the talons to produce spiritual amulets to protect themselves from invaders during battle.',
+      pl: 'Gdy szpon zostanie znaleziony, jest uznawany za dar od świętych ptaków w górach. Mnichowie w górach używali szponów do produkcji duchowych amuletów, których zadaniem była ochrona przed wrogiem podczas bitwy.',
       ru: 'Когда был найден этот коготь, его считали даром священных орлов живущих в горах. Монахи живущие на склонах гор использовали такие когти для создания духовных амулетов, чтобы защититься от захватчиков во время битвы.',
       hi: 'जब भी गरुड़ का नाख़ून मिलता था, उसे पहाड़ों के पावन पंचियो का टौफ़ा माना जाता था। पहाड़ों पर रहने वाले भिक्षुकों ने अपनी सुरक्षा के लिए इन नाखूनों से आत्मिक ताबीज़ बनाए थे।',
       de: 'Als eine Kralle gefunden wurde, galt sie als Geschenk der heiligen Vögel in den Bergen. Die Mönche in den Bergen benutzten die Krallen, um spirituelle Amulette herzustellen, um sich im Kampf vor Eindringlingen zu schützen.',
@@ -121,6 +126,7 @@ export default [
     name       : {$$: 'Shadow Scarab'},
     description: {
       en: 'Ancient desert people collected special stones and shaped them into scarabs with strange, dark magic. Many important people in that ancient civilization wore these amulets for stature and protection.',
+      pl: 'Starożytne ludy pustyni zbierały specjalne kamienie i kształtowały z nich skarabeusze za pomocą dziwnej, mrocznej magii. Wielu ważnych ludzi z tych cywilizacji nosiło te amulety dla ochrony i podkreślenia statusu.',
       ru: 'Древние кочевники из пустынь собирали специальные камни и превращали их в скарабеев с сильной, темной магией. Многие важные люди в древней цивилизации носили эти амулеты для защиты и авторитета.',
       hi: 'रेगिस्तान के पुराने लोग विशेष पत्थर जमा करकर अपने काले जादू से उन्हें पवित्र भृग का आकार देते थे। उस ज़माने के बड़े लोग अपनी सुरक्षा के लिए इन ताबीज़ो को पहनते थे।',
       de: 'Alte Wüstenvölker sammelten spezielle Steine und formten sie zu Skarabäen mit seltsamer, dunkler Magie. Viele wichtige Menschen in dieser alten Zivilisation trugen diese Amulette zur Statur und zum Schutz.',
@@ -143,6 +149,7 @@ export default [
     name       : {$$: 'Mystic Shard'},
     description: {
       en: 'Strange shards mined from the mountains were enhanced by mystics and formed into amulets in order to provide protection and cause fear.',
+      pl: 'Dziwne odłamki wydobyte z gór zostały zaklęte przez mistyków i przekształcone w amulety w celu ochronnym, oraz wywoływania strachu.',
       ru: 'Странные осколки неизвестного материала добытые в горах были заколдованы мистиками и превращены в амулеты, чтобы обеспечить защиту и внушать врагам страх.',
       hi: 'पहाडो से खने अजीब टुकड़ों को सूफीयों ने प्रवृत्त करकर अपनी सुरक्षा के लिए उनके ताबीज़ बना लिए।',
       de: 'Seltsame Scherben, die aus den Bergen abgebaut wurden, wurden von Mystikern verstärkt und zu Amuletten geformt, um Schutz zu bieten und Angst zu erzeugen.',
@@ -165,6 +172,7 @@ export default [
     name       : {$$: 'Omega Medallion'},
     description: {
       en: 'Warring theocracies created divine omega symbols as a means for protection. These symbols were used to deter attacks, given as protective gifts, and presented to potential religious followers.',
+      pl: 'Wojujące teokracje stworzyły boskie symbole w celach ochronnych. Symbole te były używane do niwelowania ataków, jako chroniące podarki, lub były podarkami dla potencjalnych wyznawców.',
       ru: 'Воюющие теократисты создали символы омеги на амулетах как средство божественные защиты. Эти символы были использованы для защиты от атак и как священные подарки для потенциальных последователей религии.',
       hi: 'युद्धरत धर्मशास्त्रों ने सुरक्षा के लिए एक साधन के रूप में दिव्य ओमेगा प्रतीकों का निर्माण किया। इन प्रतीकों का उपयोग हमलों को रोकने के लिए किया गया था, सुरक्षात्मक उपहार के रूप में दिया गया था, और संभावित धार्मिक अनुयायियों को प्रस्तुत किया गया था।',
       de: 'Durch kriegerische Theokratien entstanden göttliche Omega-Symbole als Mittel zum Schutz. Diese Symbole wurden zur Abschreckung von Angriffen verwendet, als Schutzgeschenk gegeben und potenziellen religiösen Anhängern präsentiert.',
@@ -186,6 +194,7 @@ export default [
     name       : {$$: 'Verstärker'},
     description: {
       en: 'This amulet has a strange set of overlapping discs that taps into natural energies and amplifies the natural protection of the wearer. Many magic users strive to learn the secrets of these amulets so that they can be reproduced.',
+      pl: 'Ten amulet posiada dziwny zestaw nachodzących na siebie dysków, które wnikają w wewnętrzą energie i wzmacniają naturalną ochronę noszącego. Wielu użytkowników magii usiłuję zgłębić sekrety tych amuletów, aby mogły być reprodukowane.',
       ru: 'Этот амулет имеет странный набор перекрывающихся дисков, которые подключаются к природным энергиям и усиливают естественную защиту владельца. Многие маги стремятся узнать секреты этих амулетов, чтобы их можно было воспроизвести.',
       de: 'Dieses Amulett hat einen seltsamen Satz überlappender Scheiben, die natürliche Energien anzapfen und den natürlichen Schutz des Trägers verstärken. Viele magische Nutzer sind bestrebt, die Geheimnisse dieser Amulette zu ergründen, damit sie reproduziert werden können.',
       fr: 'Cette amulette possède un étrange jeu de disques qui se chevauchent, qui puisent dans les énergies naturelles et amplifient la protection naturelle de celui qui la porte. Beaucoup d\'utilisateurs de magie s\'efforcent d\'apprendre les secrets de ces amulettes afin qu\'elles puissent être reproduites.',
@@ -207,6 +216,7 @@ export default [
     name       : {$$: 'Tempest Carcanet'},
     description: {
       en: 'Metal strands weave in and out of each other, producing electric arcs and giving the appearance of a living amulet. Scholars speculate that these amulets came from a realm that disappeared, but no one seems sure.',
+      pl: 'Metalowe pasma splatają się tworząc elektryczne wyładowania, sprawiając wrażenie, że ten amulet żyje. Uczeni spekulują, że amulety te pochodzą z wymiaru, który zniknął, lecz nikt nie jest tego pewien.',
       ru: 'Металлические пряди вплетаются друг в друга, создавая электрическую дугу создавая видимость живого амулета. ученые предполагают что эти амулеты пришли из одного из неизвестных миров, которые им еще предстоит раскрыть.',
       de: 'Metallstränge verweben sich ineinander und auseinander, erzeugen Lichtbögen und wirken wie ein lebendiges Amulett. Wissenschaftler spekulieren, dass diese Amulette aus einem verschwundenen Reich stammt, aber niemand scheint sich sicher zu sein.',
       fr: 'Les torons métalliques s\'entrelacent et s\'entremêlent, produisant des arcs électriques et donnant l\'apparence d\'une amulette vivante. Les érudits spéculent que ces amulettes proviennent d\'un royaume qui a disparu, mais personne ne semble sûr.',
@@ -228,6 +238,7 @@ export default [
     name       : {$$: 'Ankh'},
     description: {
       en: 'Ancient kings had powerful ankh symbols made to protect them in the afterlife. Grave robbers have stolen many of these amulets and sold them to both people and monsters. Each ankh has an eerie glow that belies its true power.',
+      pl: 'Starożytni królowie posiadali potężne symbole krzyża Ankh, których zadaniem było chronić ich po śmierci. Złodzieje cmentarni zrabowali wiele z nich i sprzedali je zarówno ludziom, jak i potworom. Każdy Ankh posiada lekką poświatę, świadczącą o jego prawdziwej potędze.',
       ru: 'Древние цари имели мощные аньхские символы, созданные для того чтобы защитить их в загробной жизни. Грабители могил украли многие из этих амулетов и продали их как людям, так и монстрам. У каждого анка есть жуткое сияние, которое отражает его истинную силу.',
       de: 'Alte Könige hatten mächtige Ankh-Symbole, um sie im Jenseits zu schützen. Grabräuber haben viele dieser Amulette gestohlen und an Menschen und Monster verkauft. Jedes Ankh hat ein unheimliches Glühen, das seine wahre Kraft widerlegt.',
       fr: 'Les anciens rois avaient de puissants symboles ankh faits pour les protéger dans l\'au-delà. Les pilleurs de tombes ont volé beaucoup de ces amulettes et les ont vendues à la fois aux gens et aux monstres. Chaque ankh a une lueur étrange qui dément sa vraie puissance.',
@@ -250,6 +261,7 @@ export default [
     // Do NOT translate "World Tree" or "Yggdrasil".
     description: {
       en: 'Twisted pieces of the enormous World Tree, Yggdrasil, were made into amulets of the most sacred kind. Sap seeps out of the amulet and is absorbed by the body for extra protection.',
+      pl: 'Splątane kawałki gigantycznego Drzewa Świata, Yggdrasil, zostały wykorzystane do stworzenia najświętszego amuletu. Żywica wydziela się z amuletu, następnie jest wchłaniania przez ciało dla dodatkowej ochrony',
       ru: 'Скрученные части огромного World Tree, Yggdrasil, были сделаны в амулеты самого священного вида. Сок просачивается из амулета и поглощается телом для дополнительной защиты.',
       de: 'Verdrehte Stücke des riesigen World Tree, Yggdrasil wurden zu Amuletten der heiligsten Art verarbeitet. Saft sickert aus dem Amulett und wird vom Körper aufgenommen, um zusätzlichen Schutz zu bieten',
       fr: 'Des morceaux tordus de l\'énorme World Tree, Yggdrasil, ont été transformés en amulettes du genre le plus sacré. La sève s\'écoule de l\'amulette et est absorbée par le corps pour une protection supplémentaire.',
@@ -271,6 +283,7 @@ export default [
     name       : {$$: 'Dragon\'s Periapt'},
     description: {
       en: 'This amulet contains elder dragon magic that was bestowed upon young dragons; these amulets gave young dragons a better chance of survival into adolescence. Once the young dragons became old and large enough to survive on their own, the chain broke and the amulet was lost.',
+      pl: 'Ten amulet zawiera starą, smoczą magię, która zostana nadana młodym smokom; amulety te dawały młodym smokom większą szanse na przetrwanie podczas dorastania. Kiedy smok staję się wystarczająco stary i duży, by samodzielnie przetrwać, łańcuch zostaje zerwany, a amulet zgubiony.',
       de: 'Dieses Amulett enthält ältere Drachenmagie, die jungen Drachen verliehen wurde; diese Amulette gaben jungen Drachen eine bessere Überlebenschance bis in die Pubertät. Als die jungen Drachen alt und groß genug wurden, um alleine zu überleben, brach die Kette und das Amulett war verloren.',
       ru: 'Древние драконы использовали свою магию чтобы сделать амулеты которые защищали их молодое поколение. Однажды, когда один молодой дракон вырос и стал большой для выживания, цепь амулета разорвалась и он был утерян. Именно такой амулет вы и держите в руках.',
       fr: 'Cette amulette contient la magie du dragon aîné qui a été accordée aux jeunes dragons ; ces amulettes ont donné aux jeunes dragons une meilleure chance de survie à l\'adolescence. Une fois que les jeunes dragons sont devenus vieux et assez grands pour survivre seuls, la chaîne s\'est brisée et l\'amulette a été perdue.',
@@ -292,6 +305,7 @@ export default [
     name       : {$$: 'Lionheart'},
     description: {
       en: 'This amulet contains a gem from the crown worn by a famous king. The edges of this amulet are ruthlessly sharp and partially smeared with a mysterious substance.',
+      pl: 'Ten amulet zawiera kryształ z korony niegdyś noszonej przez sławnego króla. Krawędzie tego amuletu są nieludzko ostre i częściowo umazane tajemniczą substancją.',
       ru: 'Этот амулет содержит драгоценный камень из короны, которую когда-то носил знаменитый король. Края этого амулета безжалостно остры и частично смазаны таинственным веществом.',
       de: 'Dieses Amulett enthält einen Edelstein von der Krone eines berühmten Königs. Die Kanten dieses Amuletts sind rücksichtslos scharf und teilweise mit einer geheimnisvollen Substanz beschmiert.',
       fr: 'Cette amulette contient une pierre précieuse de la couronne portée par un roi célèbre. Les bords de cette amulette sont impitoyablement tranchants et partiellement couverts d\'une substance mystérieuse.',
@@ -313,6 +327,7 @@ export default [
     name       : {$$: 'Phoenix'},
     description: {
       en: 'The center of this amulet of phoenix feathers contains a small amount of ashes from all of the fallen adventurers that have ever owned it. Without exception, every adventurer to use such an amulet has transcended into legend.',
+      pl: 'Rdzeń amuletu zrobiony z piór feniksa zawiera drobą ilość prochów każdego z poległych poszykiwaczy przygód, którzy kiedykolwiek go nosili. Bez wyjątku, każdy śmiałek noszący ten amulet przejdzie do historii.',
       de: 'Das Zentrum dieses Amuletts aus Phönixfedern enthält eine kleine Menge Asche von allen gefallenen Abenteurern, die es je besessen haben. Ausnahmslos jeder Abenteurer, der ein solches Amulett benutzt, ist zur Legende geworden.',
       ru: 'Этот амулет сделан из перьев феникса и содержит небольшое количество пепла от всех падших путешествиников которые когда-либо владели им. Без исключения, каждый путешествиник, использующий такой амулет, превратился в легенду.',
       fr: 'Le centre de cette amulette de plumes de phénix contient une petite quantité de cendres de tous les aventuriers tombés au champ d\'honneur qui l\'ont jamais possédée. Tous les aventuriers, sans exception, à utiliser une telle amulette ont transcendé en légende.',
